@@ -1,4 +1,4 @@
-# Financial-Payment-Services-Fraud-Detection
+# Financial Payment Services Fraud Detection
 Financial Payment Services Fraud Detection Analysis
 
 This Data Science assignment presents a Machine Learning-based predictive approach to explore the given **Fraud** CSV dataset. The Dataset has been uploaded in my Kaggle repository (www.kaggle.com/arunavakrchakraborty/financial-payment-services-fraud-data).
@@ -35,3 +35,13 @@ Here the description of the database has been presented.
 - **isFraud** - This is the transactions made by the fraudulent agents inside the simulation. In this specific dataset the fraudulent behavior of the agents aims to profit by taking control or customers accounts and try to empty the funds by transferring to another account and then cashing out of the system.
 
 - **isFlaggedFraud** - The business model aims to control massive transfers from one account to another and flags illegal attempts. An illegal attempt in this dataset is an attempt to transfer more than 200.000 in a single transaction.
+
+### Workflow of the Project:
+
+    i. Data Preprocessing,
+
+        ii. Exploratory Data Analysis,
+    
+            iii. Predictive Analysis.
+                    
+#### - By Arunava Kumar Chakraborty
