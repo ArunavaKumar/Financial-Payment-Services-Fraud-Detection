@@ -4,7 +4,7 @@
 
 ### Introduction:
 
-This notebook represents a Machine Learning-based predictive approach to explore the given **Fraud** dataset. The Dataset has been uploaded in my [Kaggle repository](www.kaggle.com/arunavakrchakraborty/financial-payment-services-fraud-data).
+This notebook represents a Machine Learning-based predictive approach to explore the given **Fraud** dataset. The Dataset has been uploaded in my [Kaggle repository](https://www.kaggle.com/datasets/arunavakrchakraborty/financial-payment-services-fraud-data).
 
 I have Proposed an experimental approach to develop a Fraud detection model to predict future Fraud customers based on the related features. The best feature variables will be selected on the basis of their linear relationships. Furthermore, the **Logistic Regression** classifier will be developed to build the predictive system.
 
