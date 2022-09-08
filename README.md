@@ -4,17 +4,11 @@
 
 ### Introduction:
 
-This Data Science assignment presents a Machine Learning-based predictive approach to explore the given **Fraud** CSV dataset. The Dataset has been uploaded in my [Kaggle repository](www.kaggle.com/arunavakrchakraborty/financial-payment-services-fraud-data).
+This notebook represents a Machine Learning-based predictive approach to explore the given **Fraud** dataset. The Dataset has been uploaded in my [Kaggle repository](www.kaggle.com/arunavakrchakraborty/financial-payment-services-fraud-data).
 
-I have Proposed an experimental approach to develop a Fraud detection model to predict future Fraud cases based on the other features. The best feature variables need to be selected on the basis of their linear relationships. Furthermore, the following ML-based models will be developed to build the predictive system.
-- **Linear Regression**
-- **Logistic Regression**
-- **K-Nearest Neighbors**
-- **Decision Tree** 
-- **AdaBoost Tree**
+I have Proposed an experimental approach to develop a Fraud detection model to predict future Fraud customers based on the related features. The best feature variables will be selected on the basis of their linear relationships. Furthermore, the **Logistic Regression** classifier will be developed to build the predictive system.
 
-The models will be trained using the training data and predict the fraud caused from the test data to identify the fraudulent customer. The best-performing model will be selected as the final model for preparing the predictive system.
-
+The classifier will be trained using the training data to predict the fraud cases from the validation data to identify the fraudulent customer.
 ### Data Description:
 
 Here the description of the database has been presented.
